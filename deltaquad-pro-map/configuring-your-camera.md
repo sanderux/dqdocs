@@ -2,14 +2,14 @@
 
 ## Camera
 
-[![](https://github.com/sanderux/qgc-user-guide/raw/Abridged/images/plan/SurveyCamera.jpg)](https://github.com/sanderux/qgc-user-guide/blob/Abridged/images/plan/SurveyCamera.jpg)
-
-Selecting a known camera from the options dropdown allows you to generate a grid pattern based on the camera's specifications.
+Selecting a known camera from the options dropdown allows you to generate a grid pattern based on the camera's specifications. All RGB cameras supported by the DeltaQuad are listed as known cameras.
 
 * Landscape/Portrait - Specifies the orientation that the camera is placed on the vehicle.
 * Image Overlap - Allows you to specify the amount of overlap you want between each image.
 * Altitude - Selecting this value allows you to specify the altitude for the survey. The ground resolution will be calculated and shown for the specified altitude.
 * Ground resolution - Selecting this value allows you to specify the ground resolution you want for each image. The altitude required to achieve this resolution is calculated and shown.
+
+![](../.gitbook/assets/Selection\_484.jpg)
 
 ## Custom Camera
 
@@ -44,6 +44,8 @@ The following guidelines should be followed for Sony cameras:
 * Manual white balance suitable for scene
 
 ## Agrowing A7R4 QUAD
+
+For the Agrowing A7R4 QUAD, a custom camera must be selected using the following settings:
 
 ![](../.gitbook/assets/Selection\_372.jpg)
 

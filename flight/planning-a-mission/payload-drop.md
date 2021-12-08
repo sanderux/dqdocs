@@ -2,7 +2,7 @@
 
 If your DeltaQuad is equipped with a Payload Drop Mechanism (PDM) you may use the following instructions to operate the PDM. Please note that dropping payloads from a UAV might require special permits. Please check with your local authorities before using the payload drop mechanism. Never operate the PDM near people, roads or property.
 
-## Mechanical![](../assets/PDM.jpg)
+## Mechanical![](../../assets/PDM.jpg)
 
 The PDM consists of a payload bay with 2 payload doors that are operated by servo motors. The Servo motors are attached to the payload doors with steel rods. Never operate the payload doors when they are obstructed as this might damage the system..
 
@@ -24,7 +24,7 @@ To test the payload doors position the vehicle such that the doors can open unob
 2. From the "Fly" screen, tap the drop-down box that reads "Values" and select "Camera"
 3. Press the "Trigger Camera" button
 
-![](<../assets/trigger camera.jpg>)
+![](<../../assets/trigger camera.jpg>)
 
 This method can also be used to manually control when the payload is dropped during a mission flight.
 
@@ -50,7 +50,7 @@ To plan a drop in fixed wing mode please ensure the drop zone area is at least 5
 4. Expand the "Camera" options by clicking on it
 5. Set the camera action to "Take photo", indicated below (2)
 
-![](<../assets/PDM drop.jpg>)
+![](<../../assets/PDM drop.jpg>)
 
 #### Multi rotor precision drop
 
@@ -75,7 +75,7 @@ To plan a precision drop use the following steps;
 6. Make sure the next waypoint is at least 300m away from the drop zone, and in a straight line in relation to the approach path.
 7. If the altitude of the drop zone was lowered (< 40m) then make sure the altitude is increased again before performing the transition to fixed wing mode. This can be done by placing an extra waypoint 2 meters after the payload drop waypoint with the correct altitude.
 
-![](<../assets/PDM precision drop.jpg>)
+![](<../../assets/PDM precision drop.jpg>)
 
 ### Sample missions
 

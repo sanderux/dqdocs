@@ -1,6 +1,6 @@
 # Telemetry & Ground Control
 
-In this section we cover the setup of your Ground Control Station, Video and Telemetry links. For information on using the ground control station please refer to the [Flight](../flight/) sections in this manual.
+In this section we cover the setup of your Ground Control Station, Video and Telemetry links. For information on using the ground control station please refer to the [Flight](../flight.md) sections in this manual.
 
 ## Installing QGroundControl
 

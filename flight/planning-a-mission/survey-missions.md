@@ -24,4 +24,4 @@ The Manual Grid option allows you to specify all the values for generating the g
 
 ### Geotagging <a href="#geotagging" id="geotagging"></a>
 
-Please refer to the [Geo-referencing](geo-referencing.md) section.
+Please refer to the [Geo-referencing](../geo-referencing.md) section.
