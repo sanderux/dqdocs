@@ -9,7 +9,7 @@ Selecting a known camera from the options dropdown allows you to generate a grid
 * Altitude - Selecting this value allows you to specify the altitude for the survey. The ground resolution will be calculated and shown for the specified altitude.
 * Ground resolution - Selecting this value allows you to specify the ground resolution you want for each image. The altitude required to achieve this resolution is calculated and shown.
 
-![](../.gitbook/assets/Selection\_484.jpg)
+![](../.gitbook/assets/Selection\_485.jpg)
 
 ## Custom Camera
 
