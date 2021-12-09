@@ -46,7 +46,7 @@ To process your data using Emlid Studio please use the following steps;
 7. It is recommended to switch "Update original photos" on, as this will prevent the system from duplicating the photos and will increase processing speed.
 8. Click on "Tag photos" and wait for the process to finish
 
-The photos will now contain the PPK corrected geographic information. You can now use them for processing in your stitching software such as Pix4D.
+The photos will now contain the PPK corrected geographic information. You can now use them for processing in your stitching software such as Pix4DMapper or AgiSoft Metashape.
 
 A full and in-depth explanation of the usage and options in Emlid Studio can be found [here](https://docs.emlid.com/emlid-studio/drone-data-ppk).
 
@@ -96,4 +96,4 @@ NOTE: The DeltaTag application uses the LAST image in your folder to calibrate t
 {% endhint %}
 
 You can verify the geotagging using an online service like [Pic2Map](https://www.pic2map.com).\
-[Pix4D](https://pix4d.com) can be used for 3D reconstruction.
+[Pix4D](https://pix4d.com) Mapper or Agisoft Metashape can be used for 3D reconstruction.
