@@ -206,6 +206,8 @@ After reaching transition altitude the vehicle will commence the transition to f
 ****Operator action: **LAND**\
 ****This error is displayed on the Ground Control Station when the vehicle has activated the failsafe system. The UAV must be landed as soon as possible. Do not attempt to complete the automatic return sequence if the vehicle is higher than 100m or further than 800m from the home position. If the battery is lower than 35% it should always be landed. Use the map to locate a safe area to land the UAV and direct the UAV to this location. Then press the LAND button to land immediately.
 
+After such an event the cause must be determined before a new flight is attempted. Please contact Vertical Technologies support for assistance in analyzing the cause of the failsafe event.
+
 **Excessive altitude loss**  \
 ****Operator action: **Return or LAND**  \
 ****During and shortly after transition, the vehicle may lose some altitude, this is generally not more than 5 meters. In extreme cases (high payload, strong wind). This can be up to 8 meters. The vehicle should recover from this loss quickly, regain and maintain altitude. Some altitude gain or loss may occur when banking (changing direction). This should not exceed 5 meters.
