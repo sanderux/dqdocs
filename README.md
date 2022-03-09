@@ -11,6 +11,8 @@ Version 2: DeltaQuad Pro V2
 
 For version 1, please refer to the [version 1 documentation](https://docs.deltaquad.com/deltaquad-operation-manual/v/master/)
 
+This manual in PDF file format: [DeltaQuad Operations Manual.pdf](https://docs.deltaquad.com/DeltaQuad%20Operations%20Manual.pdf)
+
 ## Safety & Legal notice
 
 * The vehicle must be operated in accordance with local laws and regulations.
