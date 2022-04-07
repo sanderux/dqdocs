@@ -15,11 +15,15 @@ Once your images have been geo-referenced, you can import them into stitching so
 NOTE: The Emlid Reach solution requires an initial setup process. Make sure this process was executed before executing your first mapping mission.
 {% endhint %}
 
+{% hint style="info" %}
+TIP: If you are experiencing problems connecting to the Emlid Reach over WiFi, you can connect a micro-USB cable to the emlid Reach, wait 60 seconds and then browse to [http://192.168.2.15/](http://192.168.2.15). This will allow you to perform the initial setup and/or download the UBX files.
+{% endhint %}
+
 Before you can use your Emlid Reach system you will need to perform the initial setup procedure as described here: [https://docs.emlid.com/reach/before-you-start/first-setup](https://docs.emlid.com/reach/before-you-start/first-setup)
 
 When following this procedure you will have installed the ReachView app which will be required for the next steps.
 
-After completing a maping mission flight please complete the following steps:
+After completing a mapping mission flight please complete the following steps:
 
 Step 1: Power off and on your base station and browse to the address as shown in the ReachView app.\
 Step 2: Download the UBX file corresponding to your flight, call this file "base.zip"
