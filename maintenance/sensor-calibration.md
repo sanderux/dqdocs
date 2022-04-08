@@ -57,6 +57,10 @@ Perform the calibration as indicated by the images on the Ground Control Station
 
 ## Level horizon
 
+{% hint style="warning" %}
+WARNING: This calibration is rarely needed outside of the factory. Performing this calibration incorrectly can cause the vehicle to become unstable or crash.
+{% endhint %}
+
 Before levelling the horizon all other calibrations, except compass calibration, must have been completed.
 
 The Level Horizon calibration is best performed indoors. It requires the vehicle to sit level based on the VTOL arms. To level the vehicle based on the VTOL arms it is recommended to find a level surface (a table) and place 4 objects of equal height, such as soda cans or soup tins, under the quadcopter motors. The foam underside of the vehicle should be free from the table and the carbon VTOL arms should sit level horizontally.
