@@ -4,9 +4,9 @@ From the Ground Control Station the vehicle parameters can be modified. Some par
 
 ## Modifying parameters
 
-To modify parameters select the settings icon from QGroundControl and then select the Parameters tab.
+To modify parameters click the Q icon from QGroundControl and then select the Vehicle Setup. Then select the parameters tab.
 
-![](<../assets/QGC Params.png>)
+![](../.gitbook/assets/Selection\_562.jpg)
 
 ## Key parameters
 
@@ -25,23 +25,30 @@ The capacity entered in this parameter should be reduced by 10% every 75 charge 
 ### FW\_THR\_CRUISE
 
 Min: 52%\
-Max: 62%\
-Default: 52%
+Max: 60%\
+Default: 54%
 
-This defines the cruise throttle percentage. Setting this higher than the default value will increase the cruise speed of the vehicle. Setting this lower is not recommended as the vehicle will fly less efficiently and could stall. When flying with maximum payload a value of 62 or higher is required.
+This defines the cruise throttle percentage. Setting this higher than the default value will increase the cruise speed of the vehicle. Setting this lower is not recommended as the vehicle will fly less efficiently and could stall. When flying with maximum payload a value of 54 or higher is required.
+
+| Flight type        | Conditions                                                          | Throttle value |
+| ------------------ | ------------------------------------------------------------------- | -------------- |
+| Maximum efficiency | Low wind conditions, light payload, no significant altitude changes | 52             |
+| Stable flight      | Medium to high wind, normal payload                                 | 54             |
+| Fast flight        | High wind and/or high payload and/or large altitude changes         | 56             |
+| Maximum speed      | All weather conditions                                              | 60             |
 
 ### VT\_FW\_ALT\_ERR
 
 Min: 10\
 Max: 100\
-Default: 12
+Default: 20
 
-This function also known as QuadChute, defines the maximum altitude deviation the vehicle will accept when flying in fixed wing mode. If the vehicle drops below this deviation it will automatically revert to quadcopter mode. This functionality is required to ensure safe flight. Disabling this functionality will void your warranty and introduce a serious safety hazard.
+This function also known as QuadChute, defines the maximum altitude deviation the vehicle will accept when flying in fixed wing mode. If the vehicle drops below this deviation, and it is descending it will automatically revert to quadcopter mode. This functionality is required to ensure safe flight. Disabling this functionality will void your warranty and introduce a serious safety hazard.
 
 ### MPC\_LAND\_SPEED
 
-Min: 0.6\
+Min: 0.4\
 Max: 1.2\
-Default: 0.7
+Default: 0.6
 
 This parameter controls the descent speed during the final stage of landing. The vehicle will use this value as maximum speed. If wind conditions are erratic the vehicle will lower this speed automatically to remain stable. A lower value will result in more energy being required for landing.
