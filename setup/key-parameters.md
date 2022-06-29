@@ -25,17 +25,17 @@ The capacity entered in this parameter should be reduced by 10% every 75 charge 
 ### FW\_THR\_CRUISE
 
 Min: 52%\
-Max: 60%\
+Max: 58%\
 Default: 54%
 
-This defines the cruise throttle percentage. Setting this higher than the default value will increase the cruise speed of the vehicle. Setting this lower is not recommended as the vehicle will fly less efficiently and could stall. When flying with maximum payload a value of 54 or higher is required.
+This defines the cruise throttle percentage. Setting this higher than the default value will increase the cruise speed of the vehicle, but decrease the efficiency. Setting this lower is not recommended as the vehicle will also fly less efficiently and could stall. When flying with maximum payload a value of 54 or higher is required.
 
-| Flight type        | Conditions                                                          | Throttle value |
-| ------------------ | ------------------------------------------------------------------- | -------------- |
-| Maximum efficiency | Low wind conditions, light payload, no significant altitude changes | 52             |
-| Stable flight      | Medium to high wind, normal payload                                 | 54             |
-| Fast flight        | High wind and/or high payload and/or large altitude changes         | 56             |
-| Maximum speed      | All weather conditions                                              | 60             |
+| Flight type        | Conditions                                                            | Throttle value |
+| ------------------ | --------------------------------------------------------------------- | -------------- |
+| Maximum efficiency | Low wind conditions, light payload, no significant altitude changes   | 52             |
+| Stable flight      | Medium low wind, normal payload                                       | 54             |
+| Fast flight        | Medium to high wind and/or high payload and/or large altitude changes | 56             |
+| Maximum speed      | All weather conditions                                                | 58             |
 
 ### VT\_FW\_ALT\_ERR
 
