@@ -21,5 +21,6 @@ This manual in PDF file format: [DeltaQuad Operations Manual.pdf](https://docs.d
 * Radio or video transmitters might require special licensing and/or permits.
 * Vertical Technologies or its affiliates can not be held responsible for vehicles that have not been operated or maintained in accordance with the guidelines set forth in this manual, or for behavior resulting from changes made to the vehicle.
 * This operations manual is provided "As-Is". No rights can be obtained from the contents of this manual.
+* The original language of this document is English, if this document is read in a translation to any other language, the interpretation of the English version takes precedence.
 * Software used in conjunction with the vehicle is provided under their respective license and warranty.
 * The vehicle is provided in accordance with the Vertical Technologies [Warranty](https://www.verticaltechnologies.com/info/warranty-and-support) and under the Vertical Technologies [Terms & Conditions](https://www.verticaltechnologies.com/info/terms-conditions)
