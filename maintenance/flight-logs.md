@@ -6,7 +6,7 @@ Every DeltaQuad should have a well maintained logbook that keeps a record of eve
 
 ## Processing the on-board flight logs
 
-On-board flight logs can be retrieved from the SD-Card in the flight controller. Remove the SD-Card and download the log files from the Log folder on the card. The logs will be stored in a subfolder that is named by the date of the flights. Logs can be uploaded to [DeltaQuad Flight Review](https://logs.deltaquad.com) for an easy overview. Logs should also be stored locally as the DeltaQuad Flight Review server does not store logs indefinitely.
+On-board flight logs can be retrieved from the SD-Card in the flight controller. Remove the SD-Card and download the log files from the Log folder on the card. The logs will be stored in a subfolder that is named by the date of the flights. Logs can be uploaded to [DeltaQuad Flight Review](https://logs.deltaquad.com/) for an easy overview. Logs should also be stored locally as the DeltaQuad Flight Review server does not store logs indefinitely.
 
 Logs can also be reviewed using the [Flightplot](https://pixhawk.org/dev/flightplot) application. This does require in-depth knowledge of the log format.
 
@@ -14,7 +14,7 @@ After retrieving the on-board flight logs remember to re-insert the SD-Card in t
 
 ## Maintaining a log book
 
-For professional use and fleet management Vertical Technologies recommends the use of [AlarisPro](https://www.alarispro.com). The DeltaQuad is a known vehicle in this system and all components and maintenance schedules are pre-configured.
+For professional use and fleet management Vertical Technologies recommends the use of [AlarisPro](https://www.alarispro.com/). The DeltaQuad is a known vehicle in this system and all components and maintenance schedules are pre-configured.
 
 For other, or self designed log books the following information should at least be present;
 

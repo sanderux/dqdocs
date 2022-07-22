@@ -16,7 +16,7 @@ NOTE: The Emlid Reach solution requires an initial setup process. Make sure this
 {% endhint %}
 
 {% hint style="info" %}
-TIP: If you are experiencing problems connecting to the Emlid Reach over WiFi, you can connect a micro-USB cable to the emlid Reach, wait 60 seconds and then browse to [http://192.168.2.15/](http://192.168.2.15). This will allow you to perform the initial setup and/or download the UBX files.
+TIP: If you are experiencing problems connecting to the Emlid Reach over WiFi, you can connect a micro-USB cable to the emlid Reach, wait 60 seconds and then browse to [http://192.168.2.15/](http://192.168.2.15/). This will allow you to perform the initial setup and/or download the UBX files.
 {% endhint %}
 
 Before you can use your Emlid Reach system you will need to perform the initial setup procedure as described here: [https://docs.emlid.com/reach/before-you-start/first-setup](https://docs.emlid.com/reach/before-you-start/first-setup)
@@ -99,5 +99,5 @@ The meta information of your images (EXIF information) will now be updated to in
 NOTE: The DeltaTag application uses the LAST image in your folder to calibrate the timestamps of your images with the triggers in your logfile. It is important not to include any images that were not taking from the survey mission. (test images, manual shots, etc)
 {% endhint %}
 
-You can verify the geotagging using an online service like [Pic2Map](https://www.pic2map.com).\
-[Pix4D](https://pix4d.com) Mapper or Agisoft Metashape can be used for 3D reconstruction.
+You can verify the geotagging using an online service like [Pic2Map](https://www.pic2map.com/).\
+[Pix4D](https://pix4d.com/) Mapper or Agisoft Metashape can be used for 3D reconstruction.

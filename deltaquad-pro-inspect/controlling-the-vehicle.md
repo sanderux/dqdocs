@@ -20,7 +20,7 @@ Please review the [mission planning section](../flight/planning-a-mission.md) fo
 
 Once your mission is uploaded you can return to the FLY view by pressing the FLY button in the left side command bar. Once you have performed the [preflight checks](../flight/pre-flight-checks.md) you can start the mission by sliding to confirm the Start Mission command. If the slider is not displayed you can press the ACTION button in the left side command bar and choose "start mission". When sliding to confirm the takeoff your vehicle will start its motors and takeoff.&#x20;
 
-Before starting your first flight, you will need to be familiar with the DeltaQuad Controller button and joystick functions as described in the [DeltaQuad Controller section](../deltaquad-pro-view/surveillance-package-3/deltaquad-controller.md).&#x20;
+Before starting your first flight, you will need to be familiar with the DeltaQuad Controller button and joystick functions as described in the [DeltaQuad Controller section](../deltaquad-pro-view/deltaquad-controller.md).&#x20;
 
 {% hint style="info" %}
 _NOTE: Before launching, make sure all switches are in their center position, all dials are turned all the way to the left, and the deploy button is switched off. Always make sure the Transition Direction (waypoint 1) is the active waypoint, indicated by a green circle._

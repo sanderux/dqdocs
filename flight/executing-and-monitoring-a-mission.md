@@ -3,7 +3,7 @@
 Before executing a mission the following conditions must have been met:
 
 1. The mission must be planned in accordance with the guidelines set out in [Planning a mission](planning-a-mission.md).
-2. The mission plan must have passed the [DeltaQuad mission plan validator](https://validator.deltaquad.com).
+2. The mission plan must have passed the [DeltaQuad mission plan validator](https://validator.deltaquad.com/).
 3. The [Pre-flight checks](pre-flight-checks.md) must have been performed and passed.
 4. The vehicle should be pointing with its nose towards the wind.
 5. The operator and any observers must keep a safe distance from the vehicle, 10m minimum recommended.
@@ -245,7 +245,7 @@ The reason for this could be related to [sensor calibration](../maintenance/sens
 
 **Ground speed**  \
 ****Operator action: **Increase cruise throttle**  \
-****The DeltaQuad will generally maintain a constant speed through air, but wind conditions will impact the effective ground speed. If the ground speed drops below 6 m/s the cruise throttle should be increased. Increasing the cruise throttle can be done by changing the parameter as described in the [Key parameters section](https://www.gitbook.com/book/sanderux/deltaquad-operation-manual/edit#). This parameter can be changed during flight.\
+****The DeltaQuad will generally maintain a constant speed through air, but wind conditions will impact the effective ground speed. If the ground speed drops below 6 m/s the cruise throttle should be increased. Increasing the cruise throttle can be done by changing the parameter as described in the [Key parameters section](https://www.gitbook.com/book/sanderux/deltaquad-operation-manual/edit). This parameter can be changed during flight.\
 **Note:** When changing the cruise throttle during flight special care must be taken to monitor the battery level.
 
 When this happens the vehicle is likely flying in wind conditions that exceed the [specified tolerance](../vehicle-specifications.md).

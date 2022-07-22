@@ -22,7 +22,7 @@ Once connected you will need to determine the IP address that was assigned to th
 
 The DeltaQuad Controller can also be used to host a WiFi hotspot. To enable the WiFi hotspot on the DeltaQuad Controller, enter the Android settings and activate the Mobile Hotspot. When the DeltaQuad Controller is hosting a mobile hotspot it will have no internet connectivity and LTE modes will be disabled.
 
-The second device can be a Windows, Mac or Linux based laptop or tablet. The recommended software for viewing the video stream is [VLC Media Player](https://www.videolan.org). To open the video stream launch VLC Media Player and select "media" -> "open network stream". In the "network URL" field enter the following address:
+The second device can be a Windows, Mac or Linux based laptop or tablet. The recommended software for viewing the video stream is [VLC Media Player](https://www.videolan.org/). To open the video stream launch VLC Media Player and select "media" -> "open network stream". In the "network URL" field enter the following address:
 
 ```
 rtsp://[IP-ADDRESS]:8554/video
@@ -36,7 +36,7 @@ Change "Caching" to 100 ms
 
 Click "Play"
 
-![](../../.gitbook/assets/Selection\_321.jpg)
+![](../.gitbook/assets/Selection\_321.jpg)
 
 ## Remotely using the mobile network
 
@@ -46,7 +46,7 @@ When the VPN Client is installed, click on the VPN icon in the bottom right sect
 
 Once connected to the VPN network for your controller, you can retrieve the camera feed on your second device.
 
-The second device can be a Windows, Mac or Linux based laptop or tablet. The recommended software for viewing the video stream is [VLC Media Player](https://www.videolan.org). To open the video stream over VPN, launch VLC Media Player and select "media" -> "open network stream". In the "network URL" field enter any of the following addresses:
+The second device can be a Windows, Mac or Linux based laptop or tablet. The recommended software for viewing the video stream is [VLC Media Player](https://www.videolan.org/). To open the video stream over VPN, launch VLC Media Player and select "media" -> "open network stream". In the "network URL" field enter any of the following addresses:
 
 #### The active feed of the DeltaQuad Controller (recommended)
 

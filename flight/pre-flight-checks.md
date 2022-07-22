@@ -4,7 +4,7 @@
 
 * Mission conforms with local laws and regulations.
 * The mission was planned in accordance with the guidelines set forth in the [Plan section](planning-a-mission.md).
-* The mission passed the [DeltaQuad Mission Validator](https://validator.deltaquad.com)
+* The mission passed the [DeltaQuad Mission Validator](https://validator.deltaquad.com/)
 * Altitudes verified across terrain height.
 * The mission path is free of obstructions for at least 200 meters in each horizontal direction.
 * VTOL Takeoff and VTOL Land items correctly applied.

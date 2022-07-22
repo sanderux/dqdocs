@@ -10,7 +10,7 @@ The video feed displayed on the Secondary Control Terminal is the video feed tha
 
 ## Using a WiFi hotspot
 
-If your controller is connected to a 5ghz WiFi hotspot, a second device can connect to the same hotspot. For information on how to connect the DeltaQuad Controller to a WiFi hotspot, please see the [DeltaQuad Controller section](../deltaquad-pro-view/surveillance-package-3/deltaquad-controller.md).
+If your controller is connected to a 5ghz WiFi hotspot, a second device can connect to the same hotspot. For information on how to connect the DeltaQuad Controller to a WiFi hotspot, please see the [DeltaQuad Controller section](../deltaquad-pro-view/deltaquad-controller.md).
 
 Once connected you will need to determine the IP address that was assigned to the controller by the WiFi hotspot. To do this you can open the Settings app, scroll down and select About Phone, and tap on Status. Here you will find the item "IP address" which shows the values for the IP addresses assigned by the hotspot. The value required is the sequence of 4 numbers separated by a dot. For example 192.168.43.124
 

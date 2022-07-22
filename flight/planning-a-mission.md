@@ -25,7 +25,7 @@ For video instruction on planning a mission please visit [https://www.youtube.co
 
 ## DeltaQuad Mission Validator
 
-After planning your mission you can validate it using the [DeltaQuad Mission Validator](https://validator.deltaquad.com)
+After planning your mission you can validate it using the [DeltaQuad Mission Validator](https://validator.deltaquad.com/)
 
 The Validator will check your mission for feasibility, sanity, and safety. It will also check weather conditions, terrain altitudes, and no-fly zones. The DeltaQuad Mission Validator can not be used as an authoritative validation, it is provided as an additional verification system and all validations should be verified manually.
 
@@ -42,9 +42,9 @@ The Validator will check your mission for feasibility, sanity, and safety. It wi
 
 ![](<../.gitbook/assets/Final approach altitude.jpg>)
 
-* Most wind forecasts are based on ground-level wind. Even 10 meters above the ground the wind can be significantly stronger. The [DeltaQuad Mission Validator](https://validator.deltaquad.com) will indicate estimated wind levels at transition and cruise altitude.
+* Most wind forecasts are based on ground-level wind. Even 10 meters above the ground the wind can be significantly stronger. The [DeltaQuad Mission Validator](https://validator.deltaquad.com/) will indicate estimated wind levels at transition and cruise altitude.
 * During the transition phase of the "Transition Direction" item, the vehicle has limited navigational abilities and could drift from its intended direction. The transition should therefore always be performed at an altitude where it is safe for the vehicle to perform the transition in any direction.
-* Validate your mission in the [DeltaQuad Mission Validator](https://validator.deltaquad.com)
+* Validate your mission in the [DeltaQuad Mission Validator](https://validator.deltaquad.com/)
 
 ## Plan view
 
@@ -236,7 +236,7 @@ On the "Mission Display", you can also see a collision between two waypoints. Th
 
 The ground level is an estimation based on satellite surveys, these do not account for structures like buildings, power lines or trees. A visual on-site inspection must always be performed.&#x20;
 
-The [DeltaQuad Mission Validator](https://validator.deltaquad.com) will verify terrain altitudes across the entire mission path.
+The [DeltaQuad Mission Validator](https://validator.deltaquad.com/) will verify terrain altitudes across the entire mission path.
 
 The "Zoom Tool" is located on the left corner above the "Mission Height Display".
 

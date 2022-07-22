@@ -27,14 +27,13 @@
 
 ## DeltaQuad Pro #VIEW
 
-* [Surveillance package 3](deltaquad-pro-view/surveillance-package-3/README.md)
-  * [DeltaQuad Controller](deltaquad-pro-view/surveillance-package-3/deltaquad-controller.md)
-  * [Controlling the vehicle](deltaquad-pro-view/surveillance-package-3/controlling-the-vehicle.md)
-  * [Controlling the camera](deltaquad-pro-view/surveillance-package-3/controlling-the-camera.md)
-  * [Target tracking & following](deltaquad-pro-view/surveillance-package-3/target-tracking-and-following.md)
-  * [Transmission modes and stream rates](deltaquad-pro-view/surveillance-package-3/transmission-modes-and-stream-rates.md)
-  * [Changing camera settings](deltaquad-pro-view/surveillance-package-3/changing-camera-settings.md)
-  * [Connecting a second screen](deltaquad-pro-view/surveillance-package-3/connecting-a-second-screen.md)
+* [DeltaQuad Controller](deltaquad-pro-view/deltaquad-controller.md)
+* [Controlling the vehicle](deltaquad-pro-view/controlling-the-vehicle.md)
+* [Controlling the camera](deltaquad-pro-view/controlling-the-camera.md)
+* [Target tracking & following](deltaquad-pro-view/target-tracking-and-following.md)
+* [Transmission modes and stream rates](deltaquad-pro-view/transmission-modes-and-stream-rates.md)
+* [Changing camera settings](deltaquad-pro-view/changing-camera-settings.md)
+* [Connecting a second screen](deltaquad-pro-view/connecting-a-second-screen.md)
 
 ## DeltaQuad Pro #MAP
 
