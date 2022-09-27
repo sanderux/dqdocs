@@ -16,7 +16,7 @@ NOTE: The Emlid Reach solution requires an initial setup process. Make sure this
 {% endhint %}
 
 {% hint style="info" %}
-TIP: If you are experiencing problems connecting to the Emlid Reach over WiFi, you can connect a micro-USB cable to the emlid Reach, wait 60 seconds and then browse to [http://192.168.2.15/](http://192.168.2.15/). This will allow you to perform the initial setup and/or download the UBX files.
+TIP: If you are experiencing problems connecting to the Emlid Reach over WiFi, you can disconnect the main battery power and connect a micro-USB cable to the emlid Reach, wait 60 seconds and then browse to [http://192.168.2.15/](http://192.168.2.15/). This will allow you to perform the initial setup and/or download the UBX files. **Do not connect USB and main battery power at the same time, this will damage the system.**
 {% endhint %}
 
 Before you can use your Emlid Reach system you will need to perform the initial setup procedure as described here: [https://docs.emlid.com/reach/before-you-start/first-setup](https://docs.emlid.com/reach/before-you-start/first-setup)
