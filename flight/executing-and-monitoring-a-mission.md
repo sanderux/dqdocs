@@ -202,6 +202,10 @@ After reaching transition altitude the vehicle will commence the transition to f
 
 ### During Fixed Wing flight
 
+**Switch to multi-rotor mode**\
+****Operator action: **Transition to fixed wing or LAND**\
+****There are some conditions where the vehicle can switch to multi-rotor mode. These include loss of positional awareness or accidental mode switching by the operator. In these events, it is usually prudent to attempt to resume fixed-wing flight by pressing the VTOL mode switch (G). If this fails for any reason, the vehicle must be landed. When the vehicle is higher than 200m this must happen immediately as the multirotor mode may consume too much energy to complete a full return.
+
 **Abort error displayed due to loss of altitude or maximum bank angle**\
 ****Operator action: **LAND**\
 ****This error is displayed on the Ground Control Station when the vehicle has activated the failsafe system. The UAV must be landed as soon as possible. Do not attempt to complete the automatic return sequence if the vehicle is higher than 100m or further than 800m from the home position. If the battery is lower than 35% it should always be landed. Use the map to locate a safe area to land the UAV and direct the UAV to this location. Then press the LAND button to land immediately.
