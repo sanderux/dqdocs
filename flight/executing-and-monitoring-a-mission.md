@@ -6,7 +6,8 @@ Before executing a mission the following conditions must have been met:
 2. The mission plan must have passed the [DeltaQuad mission plan validator](https://validator.deltaquad.com/).
 3. The [Pre-flight checks](pre-flight-checks.md) must have been performed and passed.
 4. The vehicle should be pointing with its nose towards the wind.
-5. The operator and any observers must keep a safe distance from the vehicle, 10m minimum recommended.
+5. All flights must be started with a fully charged battery.
+6. The operator and any observers must keep a safe distance from the vehicle, 10m minimum recommended.
 
 ## Setting up the Fly screen
 

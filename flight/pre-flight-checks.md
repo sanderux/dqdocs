@@ -51,8 +51,7 @@ Visual inspection for damage, dirt, correctly mounted and securely fastened:
 * No warnings on GCS.
 * The wing servos are powered (try to move the elevons and feel resistance from the servo).
 * The vehicle's current physical orientation matches the heading observed on GCS.
-* The flight battery is fully charged (> 95%).
-* The ground equipment has sufficient charge to perform the mission.
+* Battery capacity is sufficient for vehicle and ground equipment.
 * [Safety features](../setup/safety-features.md) are set correctly.
 * GPS lock is stable with at least 10 registered satellites.
 * Mission uploaded and downloaded to verify.
