@@ -23,6 +23,12 @@ The DeltaQuad LiPo can also be charged using a third party charging solution and
 4. Let the battery cool down to ambient temperature before charging.
 5. Never charge the battery at more than 23 Amperes, as this will reduce the number of charge cycles and efficiency of the battery.
 
+## Operating the LiPo with your vehicle
+
+The DeltaQuad can measure Voltage and Current from the main battery. To estimate the total amount of energy available in a battery it will use both of these metrics. The Voltage can give some indication of the state of charge but this is not always accurate. New batteries maintain a high voltage even when their capacity is low. The vehicle will also measure the amount of current that has been drawn from a battery, and knows the total capacity of the DeltaQuad LiPo. If the battery is fully charged it can use this accurate method of estimating the state of charge.&#x20;
+
+To prevent any situation where the vehicle may incorrectly estimate the state of charge of the battery, it is required to start every flight with a fully charged battery.
+
 ## Storing the LiPo
 
 When storing a LiPo for a period longer then 1 week make sure to store it at approximately 50% charge. This will increase the lifetime of your battery. The LiPo should be stored in a safe and dark location between 5 and 25 degrees Celsius and never left exposed to direct sunlight for a prolonged period of time.
