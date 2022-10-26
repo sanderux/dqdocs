@@ -24,6 +24,7 @@
   * [Flight logs](maintenance/flight-logs.md)
   * [Preventative maintenance](maintenance/preventive-maintenance.md)
   * [Scheduled maintenance](maintenance/scheduled-maintenenance.md)
+  * [Wiring diagram](maintenance/scheduled-maintenenance-1.md)
 
 ## DeltaQuad Pro #VIEW
 
