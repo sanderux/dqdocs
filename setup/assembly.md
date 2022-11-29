@@ -74,7 +74,11 @@ Mount the propellers in the following positions noting the direction of the prop
 
 The propellers are attached by removing the motor nut and washer, sliding the propeller on the shaft, sliding the washer on top of the propeller and fastening the nut.
 
-![](../assets/motor-prop2.png)
+![](../.gitbook/assets/Prop.jpg)
+
+Please make sure to install the washer in the right orientation. The washer has the wider side on top.
+
+<figure><img src="../.gitbook/assets/Prop_zoomed.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Replacing the pusher propeller
 
