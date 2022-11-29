@@ -76,7 +76,7 @@ The propellers are attached by removing the motor nut and washer, sliding the pr
 
 ![](../.gitbook/assets/Prop.jpg)
 
-Please make sure to install the washer in the right orientation. The washer has the wider side on top.
+For the vertical motors (VTOL motors), please make sure to install the washer in the right orientation. The washer has the wider side on top.
 
 <figure><img src="../.gitbook/assets/Prop_zoomed.jpg" alt=""><figcaption></figcaption></figure>
 
