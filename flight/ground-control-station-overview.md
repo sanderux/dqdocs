@@ -23,7 +23,8 @@ By clicking the **"Q"** symbol the Select Tool will prompt, giving you the follo
 **Note:** The DeltaQuad is designed to operate in the following flight modes:
 
 * Mission
-* Position (only when joysticks activated)
+* Position (only when using the DeltaQuad Controller)
+* Altitude
 * Hold
 * Return
 

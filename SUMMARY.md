@@ -16,6 +16,7 @@
   * [Planning a mission](flight/planning-a-mission.md)
   * [Pre-flight checks](flight/pre-flight-checks.md)
   * [Executing and monitoring a mission](flight/executing-and-monitoring-a-mission.md)
+  * [Manual override](flight/manual-override.md)
   * [Post flight](flight/post-flight.md)
 * [Maintenance](maintenance.md)
   * [Sensor calibration](maintenance/sensor-calibration.md)
