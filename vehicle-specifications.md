@@ -7,7 +7,7 @@
 | Height                                          | 17 cm                       |
 | Wing area                                       | 90 sq. dm.                  |
 | Payload bay                                     | 20 x 12 x 9 cm              |
-| Flightcase dimensions                           | 114 x 48 x 44 cm            |
+| Flightcase dimensions                           | 122 x 45 x 51 cm            |
 | Flightcase weight                               | \~ 25 Kg including vehicle  |
 |                                                 |                             |
 | **Weight and Payload:**                         |                             |
