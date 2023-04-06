@@ -15,6 +15,8 @@ The DeltaQuad series UAV is compatible with the DeltaQuad High Grade LiPo Batter
 
 ## Placing the LiPo
 
+The DeltaQuad Pro must always be flown with a fully charged battery. If the battery is not fully charged the vehicle is unable to correctly estimate the remaining battery capacity and the indicated percentages may deviate.
+
 Place the LiPo inside the fuselage with the Velcro strips pointing down. Make sure to position the LiPo as far forward as possible.\
 
 
